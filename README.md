@@ -7,37 +7,37 @@
 
 Here the final result:
 
-# Wireframe of the headphones project - desktop version (1440px)
+# Wireframe of the Smiling-School project - desktop version (1440px)
 ![](01_SMILESCHOOL_LANDING_desktop@2x.png)
 
 
-# Wireframe of the headphones project - desktop version (1440px)
+# Wireframe of the Smiling-School project - desktop version (1440px)
 ![](02_SMILESCHOOL_PRICING_desktop@2x.png)
 
 
-# Wireframe of the headphones project - desktop version (1440px)
+# Wireframe of the Smiling-School project - desktop version (1440px)
 ![](03_SMILESCHOOL_COURSES_desktop@2x.png)
 
-# Wireframe of the headphones project - tablet version (768px)
+# Wireframe of the Smiling-School project - tablet version (768px)
 ![](01_SMILESCHOOL_LANDING_tablet@2x.png)
 
 
-# Wireframe of the headphones project - tablet version (768px)
+# Wireframe of the Smiling-School project - tablet version (768px)
 ![](02_SMILESCHOOL_PRICING_tablet@2x.png)
 
 
-# Wireframe of the headphones project - tablet version (768px)
+# Wireframe of the Smiling-School project - tablet version (768px)
 ![](03_SMILESCHOOL_COURSES_tablet@2x.png)
 
-# Wireframe of the headphones project - mobile version (576px)
+# Wireframe of the Smiling-School project - mobile version (576px)
 ![](01_SMILESCHOOL_LANDING_mobile@2x.png)
 
 
-# Wireframe of the headphones project - mobile version (576px)
+# Wireframe of the Smiling-School project - mobile version (576px)
 ![](02_SMILESCHOOL_PRICING_mobile@2x.png)
 
 
-# Wireframe of the headphones project - mobile version (576px)
+# Wireframe of the Smiling-School project - mobile version (576px)
 ![](03_SMILESCHOOL_COURSES_mobile@2x.png)
 
 
