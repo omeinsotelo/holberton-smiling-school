@@ -33,6 +33,7 @@
   
   .font-smileschool {
     font-family: 'Coiny';
+    font-size: 32px;
   }
 
   .backPageColor {
@@ -57,7 +58,9 @@
   .mix-blend {
     mix-blend-mode: soft-light;
   }
-  
+  .opt {
+    opacity: 0.5;
+  }
   /* Icons */
   
   [class^="icon"], [class*=" icon"] {
@@ -84,8 +87,18 @@
   .iconMenu-instagram::before {
     content: "\e90a";
   }
+  .iconCheck::before {
+    content: "\e905";
+    color: #82D24F;
+  }
+  .iconSearch::before {
+    content: "\e912";
+  }
   li {
     list-style: none;    
+  }
+  .borderB{
+    border-bottom: 1px solid white;
   }
   
   /* header
@@ -143,8 +156,8 @@
     height: 150px;
 }
 
-  /* Carousel
-        ============================== */
+/* Carousel
+      ============================== */
 
 .imgCarousel {
     width: 160px;
@@ -168,8 +181,8 @@ img.p-arrow-icon, img.n-arrow-icon {
 }
 
 
-  /* Carousel card
-        ============================== */
+/* Carousel card
+      ============================== */
 
 .iconPlay {
   width: 64px;
@@ -195,8 +208,8 @@ img.p-arrow-icon, img.n-arrow-icon {
   border: none;
 }
 
-  /* Free membership
-        ============================== */
+/* Free membership
+      ============================== */
 
 .freem_img {
 	width: 45px;
@@ -215,6 +228,50 @@ img.p-arrow-icon, img.n-arrow-icon {
 	font-size: 14px;
 	line-height: 26px;
 }
+
+/* top hero pricing
+      ============================== */
+.imgHeroPricing {
+  background: url("images/pic_2.jpg") center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 1093px;
+  position: relative;
+}
+.heroTitlePricing {
+  font-size: 60px;
+}
+.logoHeroPricing {
+  width: 37px;
+  height: 30px;
+}
+.contetHeroPricing {
+  top: 23%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.totalPrice {
+  font-size: 44px;
+}
+
+/* top hero courses
+      ============================== */
+.imgHeroCourses {
+  background: url("images/pic_3.jpg") center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  position: relative;
+  padding: 0 0 30px 0;
+}
+
+.place-holder::placeholder {
+  color: #FFF;
+}
+
+.bg-smile-input {
+  background-color: #d89df9;
+}
+
 
   /* footer
         ============================== */
